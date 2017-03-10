@@ -19,6 +19,8 @@
 		3C6CFD431E62889D00D991A0 /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6CFD421E62889D00D991A0 /* CategoryViewController.swift */; };
 		3C6CFD451E6288BB00D991A0 /* PokemonInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6CFD441E6288BB00D991A0 /* PokemonInfoViewController.swift */; };
 		3C6CFD4F1E63F6FC00D991A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C6CFD4E1E63F6FC00D991A0 /* Main.storyboard */; };
+		BDEACFE91E691616009BA103 /* customCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDEACFE81E691616009BA103 /* customCollectionViewCell.swift */; };
+		BDF07D7E1E72554000E69EFF /* customTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF07D7D1E72554000E69EFF /* customTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		3C6CFD421E62889D00D991A0 /* CategoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		3C6CFD441E6288BB00D991A0 /* PokemonInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonInfoViewController.swift; sourceTree = "<group>"; };
 		3C6CFD4E1E63F6FC00D991A0 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		BDEACFE81E691616009BA103 /* customCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customCollectionViewCell.swift; sourceTree = "<group>"; };
+		BDF07D7D1E72554000E69EFF /* customTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +147,8 @@
 				3C6CFD401E62885100D991A0 /* SearchViewController.swift */,
 				3C6CFD421E62889D00D991A0 /* CategoryViewController.swift */,
 				3C6CFD441E6288BB00D991A0 /* PokemonInfoViewController.swift */,
+				BDEACFE81E691616009BA103 /* customCollectionViewCell.swift */,
+				BDF07D7D1E72554000E69EFF /* customTableViewCell.swift */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -293,7 +299,9 @@
 			files = (
 				3C6CFD451E6288BB00D991A0 /* PokemonInfoViewController.swift in Sources */,
 				3C6CFD431E62889D00D991A0 /* CategoryViewController.swift in Sources */,
+				BDF07D7E1E72554000E69EFF /* customTableViewCell.swift in Sources */,
 				3C6CFD3B1E62854300D991A0 /* PokemonGenerator.swift in Sources */,
+				BDEACFE91E691616009BA103 /* customCollectionViewCell.swift in Sources */,
 				3C6CFD0B1E62850E00D991A0 /* AppDelegate.swift in Sources */,
 				3C6CFD411E62885100D991A0 /* SearchViewController.swift in Sources */,
 				3C6CFD391E62852500D991A0 /* Pokemon.swift in Sources */,
